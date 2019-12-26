@@ -1,13 +1,13 @@
-# Docker Mastery: The Complete Toolset From a Docker Captain
+# Udemy Course Docker Mastery: with Kubernetes+Swarm from a Docker Captain
 
-> Build, compose, deploy, and manage Docker containers from development to DevOps based Swarm clusters
+> Build, test, deploy containers with the best mega-course on Docker, Kubernetes, Compose, Swarm and Registry using DevOps
 
 This repo is for use in my Udemy Courses "Docker Mastery" and "Swarm Mastery"
 
-Coupons and Purchase Links and Sample Videos at https://www.bretfisher.com/docker
+Get these courses for with my "cheapest on the Internet" coupon links:
 
-Docker Mastery Slack Chat Community for Docker, Swarm, Kubernetes, DevOps, and anything Containers:
+https://www.bretfisher.com/courses
 
-https://dockermasterychat.herokuapp.com/
+My other DevOps and Docker resources are at https://www.bretfisher.com/docker
 
-Feel free to create issues or PRs if you find a problem.
+Feel free to create issues or PRs if you find a problem with examples in this repo!
